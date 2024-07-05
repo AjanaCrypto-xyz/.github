@@ -1,6 +1,8 @@
-# Connect with Us.
+# Connect with Us
 
- - 🐦 [Our twitter](https://x.com/AjanaCrypto) - ✨ [Our Discord Channel](https://discord.com/invite/phGS3SPs) - 📧 [Our Email](mailto:ajanaabdullahi1@gmail.com)
+🐦 [Our twitter](https://x.com/AjanaCrypto) - ✨ [Our Discord Channel](https://discord.com/invite/phGS3SPs) - 📧 [Our Email](mailto:ajanaabdullahi1@gmail.com)
+
+# About Us
 
 🌟 Welcome to our GitHub! We are a dynamic team of **software developers** dedicated to innovating in the **cryptocurrency** realm. Our mission is to craft cutting-edge solutions that address the intricate challenges of the crypto world. 🚀
 
