@@ -1,6 +1,6 @@
 # Connect with Us
 
-🐦 [Our twitter](https://x.com/AjanaCrypto) - ✨ [Our Discord Channel](https://discord.com/invite/phGS3SPs) - 📧 [Our Email](mailto:ajanaabdullahi1@gmail.com)
+🐦 [Our twitter](https://x.com/AjanaCrypto) - ✨ [Our Discord Channel](https://discord.com/invite/phGS3SPs) - 📧 [Our Email](mailto:ajanaabdullahi1@gmail.com) - 📘 [GitBook](https://ajanacrypto-xyz.gitbook.io/ajanacrypto)
 
 # About Us
 
